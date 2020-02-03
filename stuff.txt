@@ -1,3 +1,7 @@
+
 stuff.txt
 
 adding to repository
+completing the lab
+using hello world repository
+
